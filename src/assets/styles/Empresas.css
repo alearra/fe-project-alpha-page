@@ -1,0 +1,38 @@
+
+/* Page */
+
+.empresas {
+    width: 100vw;
+    height: 300px;
+    background-color: #EBF4F7;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.subtitle {
+    font-size: 20px;
+}
+
+.empresas-img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* component */
+
+.empresas-stack {
+    width:100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.logos {
+    width:1000px;
+}
+
+    
